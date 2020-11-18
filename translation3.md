@@ -1,32 +1,35 @@
-Translation 3
+**Needs revisions**
+
+**Please include Part A where you mark subjects and verbs of the Latin passage.**
 
 
 
-1. Ereclteus, Pandions's son, seeked the daughter
+Translation 3.  **Part C**
 
-2. At that time Eumpus, the son of Neptune; came to attack Athens, but was killed.
+1. Ereclteus, Pandions's son, seeked the daughter. (**What verb is *habuit* from?**)
 
-3. Neptune angry because he was killed by Erectheo, said "Erecthei offer the daughter"
+2. At that time Eumolpus, the son of Neptune, came to attack Athens, but was killed.
 
-4. And so Chtoria, the daughter was sacrificed.
+3. Neptune, angry because he was killed by Erectheus, said "Erecthei offer the daughter".  **What is the subject and verb of the statement that Neptune made?**
 
-5. The remaining sister killed herself; the real Erectheus was struck by lightning. 
+4. And so Chtonia, the daughter was sacrificed.  **What is the form of *filiarum*?**
+
+5. The remaining sister killed herself; the real Erectheus was struck by lightning.  **What number is *ceterae sorores*?**
 
 
 
-Grammatical questions
+**Part B**.  Grammatical questions
 
 1. Ablative, describing when
 
 2. Gerundive
 
-3. Athenus is beseiging
+3. Athenus is beseiging.  **The gerundive does not state a fact.  Review its meaning.**
 
-4. 3rd, singular, Perfect, M, Passive
+4. 3rd, singular, Perfect, M, Passive **Mood?**
 
-5. Gerundive, Feminine
+5. Gerundive, Feminine.  **Yes:  what does the gerundive used with the verb "to be" express?**
 
-6. Feminine, Singular, Genitive
+6. Feminine, Singular, Genitive.  **Check your form.**
 
-7. Ablative, singular
-
+7. Ablative, singular. 
