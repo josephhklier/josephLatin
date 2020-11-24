@@ -2,20 +2,20 @@
 
 **Part A: instructions asked you to mark subjects and verbs in each sentence.  Please add those to the following paragraph.**
 
-Chaos prīmus deōrum erat. Fīliae eius, Nox et Terra, māter omnium hominum, erant.
-Haec māter Mortis et Lētī erat.
-Illīus fīliī horribilia mōnstra erant: Typhon, Python, et Cyclōpēs.
-Typhon et Python dracōnēs ingentēs erant et Cyclōpēs fabrī brūtī.
-Sed frāter eōrum Ūranus, prīmus ipse rēx deōrum. Hic fortis et magnus erat, sed sapiēns.
+*Chaos* prīmus deōrum **erat**. *Fīliae* eius, Nox et Terra, māter omnium hominum, **erant**.
+Haec *māter* Mortis et Lētī **erat**.
+*Illīus* fīliī horribilia mōnstra **erant**: *Typhon*, *Python*, et *Cyclōpēs*.
+*Typhon* et *Python* dracōnēs ingentēs **erant** et *Cyclōpēs* fabrī brūtī.
+Sed frāter eōrum *Ūranus*, prīmus ipse rēx deōrum. *Hic* fortis et magnus **erat**, sed sapiēns.
 
 
 - Eius- Genitive Case - Chaos
 - Demonstrative
-- Haec **"illius" is singular and could be masculine, feminine or neuter, so it will refer to the *most recent* (closest preceding) singular noun or name.**
-- Nominative, Singular, Feminine **Check the dictionary entry: monstrum, monstri, neuter**
+- Terra **"illius" is singular and could be masculine, feminine or neuter, so it will refer to the *most recent* (closest preceding) singular noun or name.**
+- Nominative, plural, neuter **Check the dictionary entry: monstrum, monstri, neuter**
 - Third
 - Genitive, Plural - Cyclopes
-- A pronoun **Do you have a verb in this sentence?**
+- "is" is the understood in the sentence not included **Do you have a verb in this sentence?** 
 
 
 
