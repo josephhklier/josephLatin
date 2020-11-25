@@ -2,13 +2,13 @@
 
 Synopsis
 
-(Present, Imperfect, Perefect)
+(Present, Imperfect, Perfect)
 
 1. amo, amare, amavi, amatus
 
-3rd singular active / passive : amat, amabat, amavit, amatur, amabatur, amatusa **Review how the perfect passive is formed: it combines the fourth part with a form of *to be*.**
+3rd singular active / passive : amat, amabat, amavit, amatur, amabatur, amatusa **Review how the perfect passive is formed: it combines the fourth part with a form of *to be*.**  amatus est
 
-3rd plural active / passive : amant, amabant, amaverunt, amatur, amabantur, amatia **Review how the perfect passive is formed: it combines the fourth part with a form of *to be*.**
+3rd plural active / passive : amant, amabant, amaverunt, amatur, amabantur, amatia **Review how the perfect passive is formed: it combines the fourth part with a form of *to be*.** amabantur
 
 2nd singular active / passive : amas, amabas, amavis, amaris, amabaris, amatusa **Check the perfect active ending and the perfect passive form**
 
