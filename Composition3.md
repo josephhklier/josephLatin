@@ -1,11 +1,11 @@
 **Needs revisions**
 Composition 3
 
-1. Venus cum Marte clam concumbat. **Look at the principal parts: what stem  should you add *bat* to?**
+1. Venus cum Marte clam concumbat. **Look at the principal parts: what stem  should you add *bat* to?** concumbere
 
-2. Vulcan factum indicandum erat.  **What case expresses *agent* with the gerundive?**
+2. Vulcan factum indicandum erat.  **What case expresses *agent* with the gerundive?** indicandi
 
-3. Is catenam adamatis fecit et catena circum lectum veneris et martis posiuit.  **1) What is the genitive of *adamas?*  2) What case is *catena*? 3) What is the third principal part of *pono*?**
+3. Is catenam adamatis fecit et catena circum lectum veneris et martis posiuit.  **1) What is the genitive of *adamas?*  2) What case is *catena*? 3) What is the third principal part of *pono*?**\
 
 4. Ea non visus est.  **Remember that in the perfect passive, the adjectival part of the verb form has to agree in gender, case and number with the subject.**
 
