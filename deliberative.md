@@ -1,3 +1,5 @@
+**Satisfactory:  full credit**
+
 Deliberative subjunctive
 
 1.a. Necet
