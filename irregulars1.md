@@ -1,3 +1,5 @@
+**Satisfactory:  full credit**
+
 Irregulars exercise
 
 1. tulit - third person singular perfect indicative active
