@@ -1,7 +1,9 @@
+**Needs revision**
+
 Temporal Clauses
 
 
-1.a. past 
+1.a. past
 b. subjunctive
 c. imperfect
 d. contemporary
@@ -17,7 +19,6 @@ c. imperfect
 d. contemporary
 
 4.a. past
-b. subjunctive 
-c. imperfect
+b. subjunctive
+c. imperfect **Check the stem of this verb.  Does it look like the present infinitive?**
 d. earlier
-
