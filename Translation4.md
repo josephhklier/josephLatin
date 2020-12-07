@@ -23,7 +23,7 @@ On the horse he gathered, Menelaus, Odysseus, Diaomedes, Thessander, Stheneleus,
 
 On the horse it wrote, "The Greeks give Athena a gift", and they brought the military camp to Tenedos. 
 
-When the trojans were able to see, they thought the enemies went away; The king of Troy lead command on horse into the temple of Minervae. 
+When the trojans were able to see, they thought that the enemy went away; Priam ordered that the horse be brought into the temple of Minervae. 
 
 When the prophet Cassandra says the horse has enemies, she has confidence they will not be able to have the horse in the temple.
 
