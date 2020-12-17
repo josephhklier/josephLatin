@@ -20,5 +20,5 @@ d. contemporary
 
 4.a. past
 b. subjunctive
-c. imperfect **Check the stem of this verb.  Does it look like the present infinitive?**
+c. imperfect **Check the stem of this verb.  Does it look like the present infinitive?** This one is troubling me, is it an antecedent?
 d. earlier
