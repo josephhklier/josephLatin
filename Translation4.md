@@ -41,4 +41,4 @@ Priam ordered that the horse be brought into the temple of Minervae.
 When the prophet Cassandra says the horse has enemies, **Let's look at the tense of this temporal clause.  Is it at the same time or earlier than the past-tense verb of the main clause?** Same time
 
 
-she has confidence they will not be able to have the horse in the temple.  The Greeks all stretched to grasp the gate but all the guards and Troy fell. **Review subject and verb of these sentences.** 
+she has confidence they will not be able to have the horse in the temple.  The Greeks all stretched to grasp the gate but all the guards and Troy fell. **Review subject and verb of these sentences.** Subjects - Cassandra, Achivi . Verbs - sunt, potiti, occiderunt, exierunt, diceret, data
